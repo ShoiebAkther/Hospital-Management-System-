@@ -96,6 +96,7 @@ The integrated **ChatBot** system represents a significant advancement in hospit
 * ### Admin
 
 ![App Screenshot](https://github.com/ShoiebAkther/Hospital-Management-System-/blob/main/Screenshot%202025-09-27%20001335.png)
+![App Screenshot](https://github.com/ShoiebAkther/Hospital-Management-System-/blob/main/Screenshot%202025-09-27%20001530%20-%20Copy.png)
 
 
 * ### Receptionist
