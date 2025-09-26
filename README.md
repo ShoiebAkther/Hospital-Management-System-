@@ -100,6 +100,6 @@ The integrated **ChatBot** system represents a significant advancement in hospit
 
 * ### Receptionist
 
-![App Screenshot]
+
 
 
