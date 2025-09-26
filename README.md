@@ -1,4 +1,4 @@
-
+[README (3).md](https://github.com/user-attachments/files/22567362/README.3.md)
 # Hospital Management Syetem : 
 
 The Hospital Management System is a comprehensive software solution designed to streamline and automate various administrative and clinical operations within a healthcare facility. This system aims to improve efficiency, reduce paperwork, and enhance the overall quality of patient care.
@@ -97,9 +97,9 @@ The integrated **ChatBot** system represents a significant advancement in hospit
 
 ![App Screenshot](https://drive.google.com/file/d/1CPyIl3fl4V2vdxxCs7MABNU19iurvFAd/view?usp=sharing)
 
+
 * ### Receptionist
 
-![App Screenshot](https://drive.google.com/drive/folders/1q0jfKzqGITxC5J7bGuC7TgUfVCxNsfAU?usp=shari<img width="3840" height="2400" alt="Green Windows 11 Wallpaper rWindows11" src="https://github.com/user-attachments/assets/6d92ef65-83b4-4dfa-b1c5-ba09725e2a4d" />
-ng)
+![App Screenshot]
 
 
