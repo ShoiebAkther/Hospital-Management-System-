@@ -95,7 +95,7 @@ The integrated **ChatBot** system represents a significant advancement in hospit
 ## Screenshots
 * ### Admin
 
-![App Screenshot](https://drive.google.com/file/d/1CPyIl3fl4V2vdxxCs7MABNU19iurvFAd/view?usp=sharing)
+![App Screenshot](Screenshot 2025-09-27 001335 - Copy.png)
 
 
 * ### Receptionist
