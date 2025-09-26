@@ -99,6 +99,7 @@ The integrated **ChatBot** system represents a significant advancement in hospit
 
 * ### Receptionist
 
-![App Screenshot](https://drive.google.com/drive/folders/1q0jfKzqGITxC5J7bGuC7TgUfVCxNsfAU?usp=sharing)
+![App Screenshot](https://drive.google.com/drive/folders/1q0jfKzqGITxC5J7bGuC7TgUfVCxNsfAU?usp=shari<img width="3840" height="2400" alt="Green Windows 11 Wallpaper rWindows11" src="https://github.com/user-attachments/assets/6d92ef65-83b4-4dfa-b1c5-ba09725e2a4d" />
+ng)
 
 
